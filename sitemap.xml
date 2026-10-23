@@ -1,5 +1,21 @@
-<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+<loc>https://4allenergy.fr/</loc>
+  </url>
   <url>
-    <loc>https://4allenergy.fr/</loc>
+    <loc>https://4allenergy.fr/electricite-generale.html</loc>
+  </url>
+  <url>
+    <loc>https://4allenergy.fr/panneaux-solaires.html</loc>
+  </url>
+  <url>
+    <loc>https://4allenergy.fr/bornes-recharge.html</loc>
+  </url>
+  <url>
+    <loc>https://4allenergy.fr/climatisation.html</loc>
+  </url>
+  <url>
+    <loc>https://4allenergy.fr/services-industriels.html</loc>
+  </url>
+  <url>
+    <loc>https://4allenergy.fr/contact.html</loc>
   </url>
 </urlset>
