@@ -27,3 +27,5 @@ Téléverser le contenu du dossier sur l'hébergement web, dans le dossier publi
 
 ## Personnalisation
 Les couleurs principales sont définies au début de `assets/styles.css` dans `:root`.
+
+Page mise à jour : services-industriels-tertiaires.html (l’ancienne adresse services-industriels.html redirige vers la nouvelle).
